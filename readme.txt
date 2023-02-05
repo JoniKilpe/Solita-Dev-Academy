@@ -22,3 +22,5 @@ this application can fetch the data. The pipeline variable takes the filters int
 if needed.
 
 I started to tinker around React and Express but they were left unfinished. I'm pretty new to these things.
+
+Bikeapp should have react components inside (not sure why git did not upload) but I only managed to start creating an initial react app following tutorials so concerning this task nothing was lost.
